@@ -1,5 +1,5 @@
 # lou-draws-portfolio
-Welcome to Lou Draws, a curated collection of artwork, illustrations, and creative projects by Lou Guest.
+Welcome to Lou Draws, a curated collection of artwork, illustrations, and creative projects by Louise Guest.
 This portfolio showcases a range of visual styles, experiments, and personal pieces created to explore storytelling, colour, and character-driven design.
 
 🌟 About the Artist
@@ -27,17 +27,17 @@ Everything is organised for clarity so you can explore my artistic journey in yo
 🛠️ Tools & Techniques
 My work typically incorporates:
 
-Digital Tools: Procreate, Adobe Fresco, Illustrator, Photoshop
-Traditional Media: graphite, ink, watercolour
+Digital Tools: Procreate, 
+Traditional Media: graphite, ink,
 Techniques: layering, texture building, stylised anatomy, expressive lighting
 
 
 📬 Contact & Commissions
 If you’re interested in collaboration, commissions, or licensing artwork, feel free to reach out:
 
-Email: [your email here]
-Instagram: @yourhandle
-Portfolio Site: link if available
+Email: guesstlouise16@gmail.com
+Instagram: @
+Portfolio Site: 
 
 I’m always excited to discuss new creative ideas!
 
